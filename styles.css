@@ -1,0 +1,128 @@
+body{margin:0px;
+    text-align: center;
+    font-family: 'Poiret One', cursive;}
+    a {padding-left: 20px;
+      padding-right: 20px;
+      text-decoration:none;
+      }
+      a:hover{color:bisque;}
+    
+    h1 {color:#e9fa01;
+      font-size: 562.5%;
+      margin:20px auto 0 auto;
+        font-family: 'Sacramento', cursive;}
+    
+      h2{color:#fc0224;
+        font-family: 'Arima Madurai', cursive;
+        font-size: 2.5rem;}
+      
+        h3{color:#0554ff;
+          font-family: 'Arima Madurai', cursive;
+          text-align: center;
+          }
+    
+          hr{border: dotted black 10px;
+            border-bottom: none;
+          width:5%;	
+          margin: 100px auto;
+           }
+    
+            p{ line-height: 2;
+            font-weight: bold;}
+    
+    
+    /*******CLASS SELECTORS****/
+    
+    .top-container{background-color: #845ec2;
+    position: relative;padding-top: 100px;}
+    
+    .middle-container{background-color: bisque;
+      margin:0 auto;}
+    
+    .bio{width:50%;
+    margin:0  auto;}
+    
+    .bottom-container{background-color: rgb(239, 159, 255);
+      padding: 50px 0 20px;
+      }
+    .copyright{color:bisque;
+      font-size:.75rem;
+      margin-bottom: 0;
+    padding-top: 20px;
+    font-size: .75rem}
+    
+    .code-queen{width: 30%;float: left; 
+      margin-right:30px;}
+    .contact-me{width: 50%;
+    margin: 60px auto 0 auto;}
+    
+    
+    .web{text-decoration: underline;} 
+    
+    .top-cloud {position: absolute;
+    left:500px;top:50px;}
+    
+    .top-p {font-size: 2rem;
+    color:#020f02;}
+    
+    .dev{font-weight: normal;}
+    
+    
+    .bottom-cloud{position: absolute;  
+     bottom:300px;left:100px;}
+    
+     .skill-row{width: 50%;
+      margin: 50px auto 50px auto;
+      text-align: left;
+     
+    }
+    
+     .sewing-machine{width: 30%;
+    float: right;
+    margin-right:30px;}
+     
+    .profile { width: 200px;
+    margin-top: 5%;}
+    
+    .footer-link{color: #7802ff;}
+    
+    .BUTTON_DUF {
+       background: #F33DF6;
+       background-image: -webkit-linear-gradient(top, #F33DF6, #8B1ED0);
+       background-image: -moz-linear-gradient(top, #F33DF6, #8B1ED0);
+       background-image: -ms-linear-gradient(top, #F33DF6, #8B1ED0);
+       background-image: -o-linear-gradient(top, #F33DF6, #8B1ED0);
+       background-image: -webkit-gradient(to bottom, #F33DF6, #8B1ED0);
+       -webkit-border-radius: 20px;
+       -moz-border-radius: 20px;
+       border-radius: 20px;
+       color: #FFEE09;
+       font-family: Georgia;
+       font-size: 20px;
+       font-weight: 100;
+       padding: 10px;
+       -webkit-box-shadow: 1px 1px 20px 0 #000000;
+       -moz-box-shadow: 1px 1px 20px 0 #000000;
+       box-shadow: 1px 1px 20px 0 #000000;
+       text-shadow: 1px 1px 20px #000000;
+       border: solid #DD380D 1px;
+       text-decoration: none;
+       display: inline-block;
+       cursor: pointer;
+       text-align: center;
+       margin: 50px auto;
+    }
+    
+    .BUTTON_DUF:hover {
+       border: solid #337FED 1px;
+       background: #90D01E;
+       background-image: -webkit-linear-gradient(top, #90D01E, #3DF6CE);
+       background-image: -moz-linear-gradient(top, #90D01E, #3DF6CE);
+       background-image: -ms-linear-gradient(top, #90D01E, #3DF6CE);
+       background-image: -o-linear-gradient(top, #90D01E, #3DF6CE);
+       background-image: -webkit-gradient(to bottom, #90D01E, #3DF6CE);
+       -webkit-border-radius: 20px;
+       -moz-border-radius: 20px;
+       border-radius: 20px;
+       text-decoration: none;
+    }
